@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+ul{
+    list-style: none;
+    display:flex;
+    align-itmes:center;
+    gap:20px;
+}
+
+.container{
+    width:1280px;
+    margin: 0 auto;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header{
+    padding:10px 0;
+}
